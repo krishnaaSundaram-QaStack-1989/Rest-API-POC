@@ -1,0 +1,13 @@
+https://github.com/mfaisalkhatri/rest-assured-examples
+
+https://blog.testproject.io/2021/07/28/rest-api-automation-from-scratch/
+
+reqres - site
+https://github.com/mfaisalkhatri/rest-assured-examples/tree/master/src/test/java/in/reqres
+
+
+https://medium.com/anarocktech/running-tests-made-easy-with-rest-assured-and-github-actions-ebfc0bfff084
+
+https://jsonplaceholder.typicode.com/
+
+https://talent500.co/blog/author/sidharth-shukla/ 
