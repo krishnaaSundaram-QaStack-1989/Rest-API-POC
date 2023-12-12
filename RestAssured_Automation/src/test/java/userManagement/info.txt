@@ -11,3 +11,8 @@ https://medium.com/anarocktech/running-tests-made-easy-with-rest-assured-and-git
 https://jsonplaceholder.typicode.com/
 
 https://talent500.co/blog/author/sidharth-shukla/ 
+
+
+
+has size  - can be used for per and post update crud operation and check size just like 
+count function in web automation
