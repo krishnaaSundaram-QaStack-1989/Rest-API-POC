@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Automation Smoke Suite">
+
+<test name="API TestCases">
+
+<classes>
+ 
+<!-- This runs the classes mentioned below -->
+ 
+<class name="userManagement.getUsers"/>
+
+<class name="userManagement.getUsers2"/>
+
+<class name="userManagement.getUsers3"/>
+
+</classes>
+
+ <!-- To run entore set of cases using package tag and add name of package
+<packages>
+	//here we're'running 2 sets of packages like module wise 
+	<package name="userManagement">
+		<package name="userManagement">
+</packages>
+  -->
+  
+  <!--
+  to run based on groups 
+  <groups>
+        <run>
+            <include name="smokeTests" />
+            <include name="regressionTests" />
+            exclude also we can use           
+        </run>
+    </groups>
+    You can include more group names as needed
+-->
+  
+</test><!-- You can include more group names as needed -->
+
+</suite>
