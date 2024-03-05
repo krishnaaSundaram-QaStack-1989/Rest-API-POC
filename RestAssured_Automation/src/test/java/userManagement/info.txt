@@ -16,3 +16,11 @@ https://talent500.co/blog/author/sidharth-shukla/
 
 has size  - can be used for per and post update crud operation and check size just like 
 count function in web automation
+
+
+Solutions for common issues 
+
+https://stackoverflow.com/questions/48515533/how-to-post-x-www-urlencode-request-by-rest-assured
+
+// Smoke , regression and Build Verificaation Tests
+// or BVT same as smoke suites we have 
