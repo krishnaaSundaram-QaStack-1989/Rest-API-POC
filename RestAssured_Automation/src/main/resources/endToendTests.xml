@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Automation e2e Suite">
-    <test name="End to End Tests">
-        <packages>
-            <!-- Here we're running 2 sets of packages like module wise -->
-            <package name="userManagement">
-                <!-- Specify your classes or include/exclude tags here -->
-            </package>
-            <!-- <package name="anotherModule">
-                Specify your classes or include/exclude tags here
-            </package> -->
-        </packages>
-    </test>
-</suite>
+
