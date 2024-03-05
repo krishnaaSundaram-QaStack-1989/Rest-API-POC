@@ -17,6 +17,7 @@ https://talent500.co/blog/author/sidharth-shukla/
 has size  - can be used for per and post update crud operation and check size just like 
 count function in web automation
 
+// run test with testNg xml files for smoke , regression and e2e tests 
 
 Solutions for common issues 
 
