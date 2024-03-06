@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="parallel execution of classes or suites" parallel="tests" thread-count="2">
+
+<test name="API TestCases">
+
+<groups>
+
+	<run>
+
+		<include name="regressionTests"/>
+
+	</run>
+	
+</groups>
+
+
+<classes>
+	
+ 
+<class name="userManagement.getUsers"/>
+
+<class name="userManagement.getUsers2"/>
+
+</classes>
+  
+</test>
+
+</suite>
