@@ -1,5 +1,6 @@
 {
    "username": "postman",
    "password": "password",
-   "endpoint": "users"
+   "endpoint": "users",
+   "languages": ["java", "javaFX", "python"];
 }
